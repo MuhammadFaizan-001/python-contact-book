@@ -18,4 +18,7 @@ JSON
 
 ## How to Run
 
+1. Clone the repository
+2. Run the program
+
 python contact_book.py
